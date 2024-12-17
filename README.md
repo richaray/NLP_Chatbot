@@ -1,10 +1,15 @@
 A conversational AI chatbot powered by PyTorch and Flask, designed to transition from a terminal-based interface to a dynamic web application. The chatbot leverages a trained neural network model to process user input and deliver intelligent responses based on predefined intents.
 
 Features:
+
 AI-driven Chatbot: Uses a custom-trained neural network with PyTorch for accurate and context-aware responses.
+
 Web Interface: Flask-based frontend for seamless user interaction via a modern web browser.
+
 Dynamic Conversations: Processes user input in real-time, returning responses with over 75% confidence.
+
 Customizable Intents: Easily modify or expand the chatbot's intents by editing the intents.json file.
+
 Scalable Codebase: Modular design with separate files for model training, response handling, and application logic.
 
 Technologies Used:
