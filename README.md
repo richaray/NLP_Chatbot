@@ -19,8 +19,11 @@ JSON for defining intents and patterns
 
 
 Getting Started:
+
 Train the model using train.py.
+
 Start the Flask app with app.py.
+
 Access the chatbot at http://127.0.0.1:5000 and enjoy chatting!
 
 Use Cases:
